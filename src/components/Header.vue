@@ -40,14 +40,14 @@
             <li class="flex items-center">
               <a
                 class="flex items-center py-4 text-gray-800 lg:px-3 lg:py-2"
-                href=""
-              >Documents</a>
+                href="https://docs.hyperdbg.com/"
+              >Documentation</a>
             </li>
 
             <li class="flex items-center">
               <a
                 class="flex items-center py-4 text-gray-800 lg:px-3 lg:py-2"
-                href=""
+                href="https://doxygen.hyperdbg.com/"
               >Doxygen</a>
             </li>
 
@@ -99,7 +99,7 @@
             <li class="flex items-center">
               <a
                 class="flex items-center py-4 text-gray-800 lg:px-3 lg:py-2"
-                href=""
+                href="https://rayanfam.com/"
               >Blog</a>
             </li>
           </ul>
@@ -112,7 +112,7 @@
               >
                 <img
                   svg-inline
-                  class="inline-block w-6 h-6 text-gray-900 fill-current"
+                  class="inline-block w-6 h-6 text-gray-700 fill-current"
                   src="@/assets/svg/github.svg"
                 />
               </a>
