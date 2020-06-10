@@ -101,8 +101,11 @@
 
         <div class="w-full px-12 pt-16 ml-auto mr-auto lg:pt-0 md:w-4/12 md:px-4">
           <div class="inline-flex items-center justify-center w-16 h-16 p-3 mb-6 text-center text-gray-600 bg-white rounded-full shadow-lg">
-            <i class="text-xl fas fa-drafting-compass">
-            </i>
+            <img
+              svg-inline
+              class="inline-block w-6 h-6 text-gray-600 fill-current focus:outline-none"
+              src="@/assets/svg/features.svg"
+            />
           </div>
 
           <h3 class="mb-2 text-3xl font-semibold leading-normal">Innovative Features!</h3>
