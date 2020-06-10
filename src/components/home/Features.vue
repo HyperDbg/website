@@ -105,7 +105,7 @@
             </i>
           </div>
 
-          <h3 class="mb-2 text-3xl font-semibold leading-normal">Magic features!</h3>
+          <h3 class="mb-2 text-3xl font-semibold leading-normal">Innovative Features!</h3>
 
           <p class="mt-4 mb-4 text-lg font-light leading-relaxed text-gray-700">
             HyperDbg comes with features like hidden hooks, which is as fast as old inline hooks, but also stealth. It mimics hardware debug registers for (read & write) to a specific location, but this time entirely invisible for both Windows kernel and the programs, and of course without any limitation in size or count!
