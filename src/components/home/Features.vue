@@ -115,7 +115,7 @@
           </p>
 
           <a
-            href="#"
+            href="https://docs.hyperdbg.com/design/features"
             class="font-bold text-gray-800 hover:text-gray-600"
           >
             Read More ...
