@@ -4,7 +4,7 @@
 
     <section-features />
 
-    <section-get-started />
+    <section-getting-started />
 
     <section-overview />
 
@@ -17,7 +17,7 @@ import SectionFaq from '@/components/home/FAQ.vue'
 import SectionIntro from '@/components/home/Intro.vue'
 import SectionFeatures from '@/components/home/Features.vue'
 import SectionOverview from '@/components/home/Overview.vue'
-import SectionGetStarted from '@/components/home/GetStarted.vue'
+import SectionGettingStarted from '@/components/home/GettingStarted.vue'
 
 export default {
   name: 'Home',
@@ -27,7 +27,7 @@ export default {
     SectionIntro,
     SectionFeatures,
     SectionOverview,
-    SectionGetStarted
+    SectionGettingStarted
   }
 }
 </script>

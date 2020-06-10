@@ -44,7 +44,7 @@
                 href="https://docs.hyperdbg.com/getting-started"
                 class="inline-block px-6 py-4 text-sm font-bold text-white bg-red-500 rounded shadow outline-none hover:bg-red-600 github-star focus:outline-none active:bg-gray-700 hover:shadow-lg"
                 target="_blank"
-              >Geting Started</a>
+              >Getting Started</a>
 
               <a
                 href="https://docs.hyperdbg.com/using-hyperdbg/"

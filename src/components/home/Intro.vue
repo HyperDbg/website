@@ -15,7 +15,7 @@
               href="https://docs.hyperdbg.com/getting-started/build-and-install"
               class="px-6 py-4 text-sm font-bold text-white uppercase bg-red-500 rounded shadow outline-none hover:bg-red-600 github-star focus:outline-none active:bg-gray-700 hover:shadow-lg"
               target="_blank"
-            >Get Started</a>
+            >Getting Started</a>
           </div>
         </div>
       </div>
