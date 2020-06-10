@@ -52,10 +52,48 @@
             </li>
 
             <li class="flex items-center">
-              <a
-                class="flex items-center py-4 text-gray-800 lg:px-3 lg:py-2"
-                href=""
-              >Hypervisor Tutorial</a>
+              <div class="relative">
+                <button
+                  class="flex items-center py-4 text-gray-800 lg:px-3 lg:py-2 focus:outline-none"
+                  @click="showTutorials = ! showTutorials"
+                >Hypervisor Tutorial
+                  <svg
+                    class="w-5 h-5 ml-2 -mr-1"
+                    viewBox="0 0 20 20"
+                    fill="currentColor"
+                  >
+                    <path
+                      fill-rule="evenodd"
+                      d="M5.293 7.293a1 1 0 011.414 0L10 10.586l3.293-3.293a1 1 0 111.414 1.414l-4 4a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414z"
+                      clip-rule="evenodd"
+                    />
+                  </svg>
+                </button>
+
+                <div
+                  class="left-0 z-50 w-56 origin-top-right rounded-md lg:mt-2 lg:shadow-lg lg:absolute lg:ml-3"
+                  v-show="showTutorials"
+                >
+                  <div
+                    class="bg-white rounded-md lg:border lg:shadow-sm"
+                    role="menu"
+                    aria-orientation="vertical"
+                    aria-labelledby="options-menu"
+                  >
+                    <div class="py-1">
+                      <a
+                        :key="index"
+                        v-for="(item, index) in tutorials"
+                        :href="item.link"
+                        class="block px-4 py-2 text-sm leading-5 text-gray-700 hover:bg-gray-100 hover:text-gray-900 focus:outline-none focus:bg-gray-100 focus:text-gray-900"
+                        role="menuitem"
+                        v-text="item.title"
+                      ></a>
+                    </div>
+                  </div>
+                </div>
+
+              </div>
             </li>
 
             <li class="flex items-center">
@@ -100,7 +138,19 @@ export default {
 
   data () {
     return {
-      showMenu: false
+      showMenu: false,
+
+      showTutorials: false,
+      tutorials: [
+        { title: 'Part 1', link: 'https://rayanfam.com/topics/hypervisor-from-scratch-part-1/' },
+        { title: 'Part 2', link: 'https://rayanfam.com/topics/hypervisor-from-scratch-part-2/' },
+        { title: 'Part 3', link: 'https://rayanfam.com/topics/hypervisor-from-scratch-part-3/' },
+        { title: 'Part 4', link: 'https://rayanfam.com/topics/hypervisor-from-scratch-part-4/' },
+        { title: 'Part 5', link: 'https://rayanfam.com/topics/hypervisor-from-scratch-part-5/' },
+        { title: 'Part 6', link: 'https://rayanfam.com/topics/hypervisor-from-scratch-part-6/' },
+        { title: 'Part 7', link: 'https://rayanfam.com/topics/hypervisor-from-scratch-part-7/' },
+        { title: 'Part 8', link: 'https://rayanfam.com/topics/hypervisor-from-scratch-part-8/' }
+      ]
     }
   },
 
