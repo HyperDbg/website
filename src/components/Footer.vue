@@ -32,7 +32,7 @@
           <div class="flex mt-6">
             <a
               class="mr-4"
-              href=" https://twitter.com/Intel80x86"
+              href="http://twitter.com/HyperDbg"
               target="_blank"
             >
               <img
