@@ -32,7 +32,7 @@
           <div class="flex mt-6">
             <a
               class="mr-4"
-              href="http://twitter.com/HyperDbg"
+              href="https://twitter.com/HyperDbg"
               target="_blank"
             >
               <img
