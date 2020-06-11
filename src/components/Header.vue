@@ -119,8 +119,8 @@
             </li>
 
             <li class="flex items-center">
-              <button class="px-4 py-2 ml-3 text-sm font-bold text-white uppercase bg-red-500 rounded shadow outline-none active:bg-gray-100 hover:shadow-md focus:outline-none">
-                Download
+              <button class="px-4 py-2 ml-3 text-sm font-bold text-white uppercase bg-red-500 rounded shadow outline-none active:bg-gray-100 hover:shadow-md focus:outline-none hover:bg-red-600 hover:shadow-lg">
+                <a href="https://github.com/HyperDbg/HyperDbg/releases"> Download</a>
               </button>
             </li>
           </ul>

@@ -73,7 +73,7 @@
                 <li>
                   <a
                     class="block pb-2 text-sm font-semibold text-gray-700 hover:text-gray-900"
-                    href="https://download.hyperdbg.com/"
+                    href="https://github.com/HyperDbg/HyperDbg/releases"
                     target="_blank"
                   >Download</a>
                 </li>
