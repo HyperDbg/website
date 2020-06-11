@@ -83,7 +83,7 @@
                     class="block pb-2 text-sm font-semibold text-gray-700 hover:text-gray-900"
                     href="https://docs.hyperdbg.com/"
                     target="_blank"
-                  >Documents</a>
+                  >Documentation</a>
                 </li>
 
                 <li>
@@ -109,14 +109,6 @@
               <span class="block mb-2 text-sm font-semibold text-gray-600 uppercase">Useful Links</span>
 
               <ul class="list-unstyled">
-                <li>
-                  <a
-                    class="block pb-2 text-sm font-semibold text-gray-700 hover:text-gray-900"
-                    href="#"
-                    target="_blank"
-                  >About</a>
-                </li>
-
                 <li>
                   <a
                     class="block pb-2 text-sm font-semibold text-gray-700 hover:text-gray-900"
