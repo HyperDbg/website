@@ -108,11 +108,11 @@
             <li class="flex items-center">
               <a
                 class="flex items-center py-4 text-gray-800 lg:px-3 lg:py-2"
-                href=""
+                href="https://github.com/HyperDbg"
               >
                 <img
                   svg-inline
-                  class="inline-block w-6 h-6 text-gray-700 fill-current"
+                  class="inline-block w-6 h-6 text-gray-700 fill-current hover:text-red-500"
                   src="@/assets/svg/github.svg"
                 />
               </a>
