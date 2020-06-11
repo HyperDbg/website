@@ -1,7 +1,7 @@
 <template>
-  <section class="relative lg:pt-48 lg:pb-64">
-    <div class="container flex flex-col-reverse flex-wrap items-center px-2 mx-auto lg:px-0 lg:flex-row">
-      <div class="w-full px-4 md:w-8/12 lg:w-6/12 xl:w-6/12">
+  <section class="relative pb-32 xl:pt-48 xl:pb-64">
+    <div class="container flex flex-col-reverse flex-wrap items-center px-2 mx-auto xl:px-0 xl:flex-row">
+      <div class="w-full px-4 sm:mt-12 xl:mt-0 md:w-8/12 xl:w-6/12">
         <div class="pt-32 sm:pt-0">
           <h2 class="text-2xl font-semibold text-gray-700 lg:text-4xl">HyperDbg Debugger</h2>
           <p class="mt-4 text-xl font-semibold leading-relaxed text-gray-600">A debugger designed for analyzing, fuzzing and reversing.</p>
@@ -20,7 +20,7 @@
         </div>
       </div>
 
-      <div class="right-0 top-auto w-full lg:absolute md:w-8/12 lg:w-6/12 xl:w-6/12">
+      <div class="right-0 top-auto w-full xl:absolute md:w-8/12 xl:w-6/12">
         <img
           svg-inline
           class="block w-auto h-auto text-gray-900 fill-current focus:outline-none"

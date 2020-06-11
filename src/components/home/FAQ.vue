@@ -1,9 +1,9 @@
 <template>
-  <section class="relative py-20">
+  <section class="relative xl:py-20">
 
-    <div class="container px-4 mx-auto lg:my-64">
-      <div class="flex flex-wrap items-center">
-        <div class="right-0 top-auto w-full lg:absolute md:w-8/12 lg:w-6/12 xl:w-6/12">
+    <div class="container px-4 mx-auto my-32 xl:my-64">
+      <div class="flex flex-wrap items-center justify-center">
+        <div class="right-0 top-auto w-full xl:absolute md:w-8/12 xl:w-6/12">
           <img
             svg-inline
             class="block w-auto h-auto text-gray-900 fill-current focus:outline-none"
@@ -11,8 +11,8 @@
           />
         </div>
 
-        <div class="w-full px-4 mr-auto md:w-6/12">
-          <div class="md:pl-12">
+        <div class="w-full px-4 my-20 xl:mt-0 xl:mr-auto md:w-8/12 xl:w-6/12">
+          <div>
             <h3 class="text-3xl font-semibold text-gray-800">
               FAQs
             </h3>

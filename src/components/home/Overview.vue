@@ -12,7 +12,7 @@
       </div>
 
       <div class="flex flex-wrap justify-center mt-32">
-        <div class="w-full px-4 mb-12 text-left lg:w-4/12">
+        <div class="w-full px-4 mb-12 text-left lg:w-6/12 xl:w-4/12">
           <img
             svg-inline
             class="inline-block w-12 h-12 text-gray-600 fill-current focus:outline-none"
@@ -25,7 +25,7 @@
           </p>
         </div>
 
-        <div class="w-full px-4 mb-12 text-left lg:w-4/12">
+        <div class="w-full px-4 mb-12 text-left lg:w-6/12 xl:w-4/12">
           <img
             svg-inline
             class="inline-block w-12 h-12 text-gray-600 fill-current focus:outline-none"
@@ -41,7 +41,7 @@
           </p>
         </div>
 
-        <div class="w-full px-4 mb-12 text-left lg:w-4/12">
+        <div class="w-full px-4 mb-12 text-left lg:w-6/12 xl:w-4/12">
           <img
             svg-inline
             class="inline-block w-12 h-12 text-gray-600 fill-current focus:outline-none"
@@ -54,7 +54,7 @@
           </p>
         </div>
 
-        <div class="w-full px-4 mb-12 text-left lg:w-4/12">
+        <div class="w-full px-4 mb-12 text-left lg:w-6/12 xl:w-4/12">
           <img
             svg-inline
             class="inline-block w-12 h-12 text-gray-600 fill-current focus:outline-none"
@@ -67,7 +67,7 @@
           </p>
         </div>
 
-        <div class="w-full px-4 mb-12 text-left lg:w-4/12">
+        <div class="w-full px-4 mb-12 text-left lg:w-6/12 xl:w-4/12">
           <img
             svg-inline
             class="inline-block w-12 h-12 text-gray-600 fill-current focus:outline-none"
@@ -80,7 +80,7 @@
           </p>
         </div>
 
-        <div class="w-full px-4 mb-12 text-left lg:w-4/12">
+        <div class="w-full px-4 mb-12 text-left lg:w-6/12 xl:w-4/12">
           <img
             svg-inline
             class="inline-block w-12 h-12 text-gray-600 fill-current focus:outline-none"

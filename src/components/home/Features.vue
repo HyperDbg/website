@@ -22,7 +22,7 @@
 
     <div class="container mx-auto">
       <div class="flex flex-wrap items-center">
-        <div class="w-full mr-auto -mt-32 md:w-6/12">
+        <div class="w-full mx-auto -mt-32 xl:ml-0 md:w-8/12 xl:w-6/12">
           <div class="relative flex flex-wrap justify-center">
             <div class="w-full px-4 my-4 lg:w-6/12">
 
@@ -99,7 +99,7 @@
           </div>
         </div>
 
-        <div class="w-full px-12 pt-16 ml-auto mr-auto lg:pt-0 md:w-4/12 md:px-4">
+        <div class="w-full px-8 pt-16 ml-auto mr-auto md:w-8/12 xl:w-4/12">
           <div class="inline-flex items-center justify-center w-16 h-16 p-3 mb-6 text-center text-gray-600 bg-white rounded-full shadow-lg">
             <img
               svg-inline
