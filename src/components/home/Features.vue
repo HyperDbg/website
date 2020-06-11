@@ -26,7 +26,7 @@
           <div class="relative flex flex-wrap justify-center">
             <div class="w-full px-4 my-4 lg:w-6/12">
 
-              <div class="p-8 text-center bg-blue-500 rounded-lg shadow-lg">
+              <div class="p-8 text-center bg-blue-500 rounded-lg shadow-lg cursor-default hover:bg-blue-600">
                 <div class="inline-flex items-center justify-center w-16 h-16 p-3 bg-white rounded-full shadow-lg">
                   <img
                     svg-inline
@@ -44,7 +44,7 @@
                 </p>
               </div>
 
-              <div class="p-8 mt-8 text-center bg-green-500 rounded-lg shadow-lg">
+              <div class="p-8 mt-8 text-center bg-green-500 rounded-lg shadow-lg cursor-default hover:bg-green-600">
                 <div class="inline-flex items-center justify-center w-16 h-16 p-3 bg-white rounded-full shadow-lg">
                   <img
                     svg-inline
@@ -62,7 +62,7 @@
             </div>
 
             <div class="w-full px-4 my-4 lg:w-6/12 lg:mt-16">
-              <div class="p-8 text-center bg-orange-500 rounded-lg shadow-lg">
+              <div class="p-8 text-center bg-orange-500 rounded-lg shadow-lg cursor-default hover:bg-orange-600">
                 <div class="inline-flex items-center justify-center w-16 h-16 p-3 bg-white rounded-full shadow-lg">
                   <img
                     svg-inline
@@ -78,7 +78,7 @@
                 </p>
               </div>
 
-              <div class="p-8 mt-8 text-center bg-red-600 rounded-lg shadow-lg">
+              <div class="p-8 mt-8 text-center bg-red-600 rounded-lg shadow-lg cursor-default hover:bg-red-700">
                 <div class="inline-flex items-center justify-center w-16 h-16 p-3 bg-white rounded-full shadow-lg">
                   <img
                     svg-inline
@@ -110,13 +110,13 @@
 
           <h3 class="mb-2 text-3xl font-semibold leading-normal">Innovative Features!</h3>
 
-          <p class="mt-4 mb-4 text-lg font-light leading-relaxed text-gray-700">
+          <p class="mt-4 mb-8 text-lg font-light leading-relaxed text-gray-700">
             HyperDbg comes with features like hidden hooks, which is as fast as old inline hooks, but also stealth. It mimics hardware debug registers for (read & write) to a specific location, but this time entirely invisible for both Windows kernel and the programs, and of course without any limitation in size or count!
           </p>
 
           <a
             href="https://docs.hyperdbg.com/design/features"
-            class="font-bold text-gray-800 hover:text-gray-600"
+            class="font-bold text-gray-800 hover:text-red-600"
           >
             Read More ...
           </a>
