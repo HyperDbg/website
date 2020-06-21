@@ -131,6 +131,20 @@
                 <span>Download</span>
               </a>
             </li>
+
+            <li class="flex items-center">
+              <a
+                href="#"
+                class="flex items-center px-4 py-2 ml-3 text-sm font-bold text-white uppercase bg-indigo-500 rounded shadow outline-none active:bg-gray-100 hover:shadow-md focus:outline-none hover:bg-indigo-600 hover:shadow-lg"
+              >
+                <img
+                  svg-inline
+                  src="@/assets/svg/quote.svg"
+                  class="inline-block w-3 h-3 mr-2 fill-current"
+                />
+                <span>Cite Paper</span>
+              </a>
+            </li>
           </ul>
         </div>
       </div>
