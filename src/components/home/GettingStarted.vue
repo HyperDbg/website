@@ -41,15 +41,15 @@
             <div class="flex flex-wrap mt-12">
               <a
                 href="https://docs.hyperdbg.com/getting-started"
-                class="inline-block w-full px-6 py-4 text-sm font-bold text-center text-white bg-red-500 rounded shadow outline-none sm:w-auto hover:bg-red-600 github-star focus:outline-none active:bg-gray-700 hover:shadow-lg"
+                class="inline-block w-full px-6 py-4 text-sm font-bold text-center text-white uppercase bg-red-500 rounded shadow outline-none sm:w-auto hover:bg-red-600 github-star focus:outline-none active:bg-gray-700 hover:shadow-lg"
                 target="_blank"
               >Getting Started</a>
 
               <a
                 href="https://docs.hyperdbg.com/using-hyperdbg/"
-                class="w-full px-6 py-4 mt-1 text-sm font-bold text-center text-white bg-yellow-500 rounded shadow outline-none sm:w-auto sm:mt-0 sm:ml-1 lg:ml-1 hover:bg-yellow-600 github-star focus:outline-none active:bg-gray-700 hover:shadow-lg"
+                class="w-full px-6 py-4 mt-1 text-sm font-bold text-center text-white uppercase bg-yellow-500 rounded shadow outline-none sm:w-auto sm:mt-0 sm:ml-1 lg:ml-1 hover:bg-yellow-600 github-star focus:outline-none active:bg-gray-700 hover:shadow-lg"
                 target="_blank"
-              >HyperDbg Examples</a>
+              >Examples</a>
             </div>
 
           </div>

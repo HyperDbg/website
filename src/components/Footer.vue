@@ -23,7 +23,7 @@
     <div class="container px-4 mx-auto">
       <div class="flex flex-wrap">
         <div class="w-full px-4 md:w-6/12">
-          <h4 class="text-3xl font-semibold text-gray-900">About</h4>
+          <h4 class="text-3xl font-semibold text-gray-900">What's HyperDbg?</h4>
 
           <h5 class="mt-2 mb-3 text-sm text-gray-700">
             HyperDbg is an open-source, user-mode and kernel-mode debugger which relies on hardware features to debug the Windows Kernel and Applications. It's mainly designed based on Intel Virtualization Technology (VT-x).

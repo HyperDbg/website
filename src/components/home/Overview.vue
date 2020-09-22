@@ -33,7 +33,7 @@
           />
 
           <h5 class="mt-5 text-xl font-semibold text-white">
-            Rely on Academic Papers
+            Relies on Academic Papers
           </h5>
 
           <p class="mt-2 mb-4 text-gray-500">
@@ -89,7 +89,7 @@
 
           <h5 class="mt-5 text-xl font-semibold text-white">Have a New Idea?</h5>
           <p class="mt-2 mb-4 text-gray-500">
-            Open an issue and describe how to implement it or you can submit a pull request with you feature.
+            Open an issue and describe how to implement it or you can submit a pull request with your feature.
           </p>
         </div>
       </div>
