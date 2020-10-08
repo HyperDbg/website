@@ -114,7 +114,7 @@
                     class="block pb-2 text-sm font-semibold text-gray-700 hover:text-gray-900"
                     href="https://rayanfam.com/contact/"
                     target="_blank"
-                  >Contact Us</a>
+                  >Contact us</a>
                 </li>
 
                 <li>
