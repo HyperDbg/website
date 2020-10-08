@@ -8,6 +8,12 @@ const routes = [
     path: '/',
     name: 'Home',
     component: () => import('../views/Home.vue')
+  },
+  {
+    path: '/download',
+    beforeEnter () {
+      location.href = 'https://github.com/HyperDbg/HyperDbg/releases'
+    }
   }
 ]
 
