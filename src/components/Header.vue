@@ -104,61 +104,65 @@
             </li>
           </ul>
 
-          <ul class="flex items-center justify-between list-none lg:justify-end lg:ml-auto">
-            <li class="flex items-center">
-              <a
-                class="flex items-center py-4 text-gray-800 lg:px-3 lg:py-2"
-                href="https://twitter.com/HyperDbg"
-              >
-                <img
-                  svg-inline
-                  class="inline-block w-6 h-6 text-gray-700 fill-current hover:text-red-500"
-                  src="@/assets/svg/twitter.svg"
-                />
-              </a>
-            </li>
+          <div class="flex flex-col sm:flex-row sm:items-center sm:justify-between list-none lg:justify-end lg:ml-auto">
+            <ul class="flex list-none">
+              <li class="flex items-center">
+                <a
+                  class="flex items-center py-4 pr-3 text-gray-800 lg:px-3 lg:py-2"
+                  href="https://twitter.com/HyperDbg"
+                >
+                  <img
+                    svg-inline
+                    class="inline-block w-6 h-6 text-gray-700 fill-current hover:text-red-500"
+                    src="@/assets/svg/twitter.svg"
+                  />
+                </a>
+              </li>
 
-            <li class="flex items-center">
-              <a
-                class="flex items-center py-4 text-gray-800 lg:px-3 lg:py-2"
-                href="https://github.com/HyperDbg"
-              >
-                <img
-                  svg-inline
-                  class="inline-block w-6 h-6 text-gray-700 fill-current hover:text-red-500"
-                  src="@/assets/svg/github.svg"
-                />
-              </a>
-            </li>
+              <li class="flex items-center">
+                <a
+                  class="flex items-center py-4 text-gray-800 lg:px-3 lg:py-2"
+                  href="https://github.com/HyperDbg"
+                >
+                  <img
+                    svg-inline
+                    class="inline-block w-6 h-6 text-gray-700 fill-current hover:text-red-500"
+                    src="@/assets/svg/github.svg"
+                  />
+                </a>
+              </li>
+            </ul>
 
-            <li class="flex items-center">
-              <a
-                href="https://github.com/HyperDbg/HyperDbg/releases"
-                class="flex items-center px-4 py-2 ml-3 text-sm font-bold text-white uppercase bg-red-500 rounded shadow outline-none active:bg-gray-100 hover:shadow-md focus:outline-none hover:bg-red-600 hover:shadow-lg"
-              >
-                <img
-                  svg-inline
-                  src="@/assets/svg/download.svg"
-                  class="inline-block w-3 h-3 mr-2 text-white fill-current"
-                />
-                <span>Download</span>
-              </a>
-            </li>
+            <ul class="flex list-none sm:my-4 lg:ml-3">
+              <li class="flex items-center">
+                <a
+                  href="https://github.com/HyperDbg/HyperDbg/releases"
+                  class="flex items-center px-4 py-2 text-sm font-bold text-white uppercase bg-red-500 rounded shadow outline-none active:bg-gray-100 hover:shadow-md focus:outline-none hover:bg-red-600 hover:shadow-lg"
+                >
+                  <img
+                    svg-inline
+                    src="@/assets/svg/download.svg"
+                    class="inline-block w-3 h-3 mr-2 text-white fill-current"
+                  />
+                  <span>Download</span>
+                </a>
+              </li>
 
-            <li class="flex items-center">
-              <a
-                href="#"
-                class="flex items-center px-4 py-2 ml-3 text-sm font-bold text-white uppercase bg-indigo-500 rounded shadow outline-none active:bg-gray-100 hover:shadow-md focus:outline-none hover:bg-indigo-600 hover:shadow-lg"
-              >
-                <img
-                  svg-inline
-                  src="@/assets/svg/quote.svg"
-                  class="inline-block w-3 h-3 mr-2 fill-current"
-                />
-                <span>Cite Paper</span>
-              </a>
-            </li>
-          </ul>
+              <li class="flex items-center">
+                <a
+                  href="#"
+                  class="flex items-center px-4 py-2 ml-3 text-sm font-bold text-white uppercase bg-indigo-500 rounded shadow outline-none active:bg-gray-100 hover:shadow-md focus:outline-none hover:bg-indigo-600 hover:shadow-lg"
+                >
+                  <img
+                    svg-inline
+                    src="@/assets/svg/quote.svg"
+                    class="inline-block w-3 h-3 mr-2 fill-current"
+                  />
+                  <span>Cite Paper</span>
+                </a>
+              </li>
+            </ul>
+          </div>
         </div>
       </div>
     </nav>
