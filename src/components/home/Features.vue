@@ -40,8 +40,7 @@
                 </h6>
 
                 <p class="mt-2 text-base text-white opacity-75">
-                  HyperDbg designed to be hidden, it uses different processor feature, virtualizing memory management unit so most of the anti-debugging tricks won't work on HyperDbg.
-                </p>
+                  HyperDbg is designed to be hidden, it uses different processor features, virtualizing memory management unit so most of the anti-debugging tricks won't work on HyperDbg.                </p>
               </div>
 
               <div class="p-8 mt-8 text-center bg-green-500 rounded-lg shadow-lg cursor-default hover:bg-green-600">
@@ -56,8 +55,7 @@
                 <h6 class="mt-4 text-lg font-semibold text-white">It's a debugger</h6>
 
                 <p class="mt-2 text-base text-white opacity-75">
-                  It's a debugger, even it's not normal debugger, tens of innovative implementations and features make HyperDbg a unique debugger.
-                </p>
+                  It's a debugger, even it's not a normal debugger, tens of innovative implementations and features make HyperDbg a unique debugger.                </p>
               </div>
             </div>
 
@@ -74,8 +72,7 @@
                 <h6 class="mt-4 text-lg font-semibold text-white">It's for reverse engineering</h6>
 
                 <p class="mt-2 text-base text-white opacity-75">
-                  HyperDbg is not a classic debugger, means that we are not limited to just break to the debugger to get a command like Windbg.
-                </p>
+                  HyperDbg is not a classic debugger, which means that we are not limited to just break to the debugger to get a command like Windbg.                </p>
               </div>
 
               <div class="p-8 mt-8 text-center bg-red-600 rounded-lg shadow-lg cursor-default hover:bg-red-700">
@@ -92,8 +89,7 @@
                 </h6>
 
                 <p class="mt-2 text-base text-white opacity-75">
-                  HyperDbg is based on innovative methods, soon we have more magical commands specially new commands with assist of Intel VT-x and for the future versions, we'll add Intel PT to our debugger.
-                </p>
+                  HyperDbg is based on innovative methods, soon we have more magical commands especially new commands with the assist of Intel VT-x and for the future versions, we'll add Intel PT to our debugger.                </p>
               </div>
             </div>
           </div>

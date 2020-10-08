@@ -21,7 +21,7 @@
 
           <h6 class="mt-5 text-xl font-semibold text-white">Active Development</h6>
           <p class="mt-2 mb-4 text-gray-500">
-            HyperDbg is globaly under active development, many people contribute in its design.
+            HyperDbg is under active development, many people contribute to its design.
           </p>
         </div>
 
