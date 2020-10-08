@@ -71,11 +71,12 @@
 
               <ul class="list-unstyled">
                 <li>
-                  <a
+                  <button
+                    @click="goToDownloads"
                     class="block pb-2 text-sm font-semibold text-gray-700 hover:text-gray-900"
-                    href="/download"
-                    target="_blank"
-                  >Download</a>
+                  >
+                    Download
+                  </button>
                 </li>
 
                 <li>
@@ -152,7 +153,11 @@
 
 <script>
 export default {
-
+  methods: {
+    goToDownloads () {
+      this.$router.push('/download')
+    }
+  }
 }
 </script>
 
