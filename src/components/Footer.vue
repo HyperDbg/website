@@ -71,12 +71,13 @@
 
               <ul class="list-unstyled">
                 <li>
-                  <button
-                    @click="goToDownloads"
+                  <a
+                    href="/download"
+                    @click.prevent="goToDownloads"
                     class="block pb-2 text-sm font-semibold text-gray-700 hover:text-gray-900"
                   >
                     Download
-                  </button>
+                  </a>
                 </li>
 
                 <li>
