@@ -73,7 +73,6 @@
                 <li>
                   <a
                     href="/download"
-                    @click.prevent="goToDownloads"
                     class="block pb-2 text-sm font-semibold text-gray-700 hover:text-gray-900"
                   >
                     Download
@@ -153,13 +152,7 @@
 </template>
 
 <script>
-export default {
-  methods: {
-    goToDownloads () {
-      this.$router.push('/download')
-    }
-  }
-}
+export default {}
 </script>
 
 <style>
