@@ -20,7 +20,7 @@
         </div>
       </div>
 
-      <div class="right-0 top-auto w-full xl:absolute md:w-8/12 xl:w-6/12">
+      <div class="right-0 top-auto w-full xl:absolute md:w-8/12 xl:w-6/12 pointer-events-none">
         <img
           svg-inline
           class="block w-auto h-auto text-gray-900 fill-current focus:outline-none"

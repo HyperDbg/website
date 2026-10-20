@@ -1,5 +1,5 @@
 <template>
-  <header>
+  <header class="relative z-20">
     <nav class="flex flex-wrap items-center justify-between w-full px-2 py-8">
       <div class="container flex flex-wrap items-baseline justify-between px-4 mx-auto">
         <div class="relative flex justify-between w-full lg:w-auto lg:static lg:block lg:justify-start">
