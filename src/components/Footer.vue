@@ -143,7 +143,7 @@
       <div class="flex flex-wrap items-center justify-center md:justify-between">
         <div class="w-full px-4 mx-auto text-center md:w-4/12">
           <div class="py-1 text-sm font-semibold text-gray-600 whitespace-no-wrap">
-            Copyright &copy; 2020 All rights reserved.
+            Copyright &copy; 2020-2026 All rights reserved.
           </div>
         </div>
       </div>
